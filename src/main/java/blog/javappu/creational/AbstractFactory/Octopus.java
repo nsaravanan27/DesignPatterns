@@ -1,4 +1,4 @@
-package blog.javappu.creational.AbstractFactory;
+package blog.javappu.creational.abstractfactory;
 
 /**
  * Created by @ppu on 31-07-2017.
