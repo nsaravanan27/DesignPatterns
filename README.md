@@ -9,3 +9,11 @@ I. Creational
 
 II. Behavioral 
 III. Structural
+
+
+
+Inversion of control \
+https://kentcdodds.com/blog/inversion-of-control
+
+AHA Programming \
+https://kentcdodds.com/blog/aha-programming
