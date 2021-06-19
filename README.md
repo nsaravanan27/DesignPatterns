@@ -11,7 +11,7 @@ II. Behavioral
 III. Structural
 
 
-
+# Design Principles
 Inversion of control \
 https://kentcdodds.com/blog/inversion-of-control
 
